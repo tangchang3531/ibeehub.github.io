@@ -28,3 +28,11 @@ BZM，Director
 ##朱波
 广州创新谷创始人，追梦者基金创始人
 
+##王涵
+Farseer 创始人， CEO
+
+##赵勇
+Junzi Kitchen 创始人， CEO 
+
+
+
