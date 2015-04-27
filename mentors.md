@@ -11,13 +11,13 @@ title: 创业导师
 广州创新谷创始人，追梦者基金创始人
 
 ##王涵
-波斯顿Farseer 创始人， CEO
+波士顿Farseer, Inc 创始人， CEO
 
 ##赵勇
 纽黑文Junzi Kitchen 创始人， CEO 
 
 ##陈辰
-耶鲁Saphlux, CEO 
+耶鲁Saphlux, Inc, CEO 
 
 ##支正春
 闪银奇异科技公司CEO
