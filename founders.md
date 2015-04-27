@@ -26,5 +26,5 @@ title: 创始和执行团队
 资深企业家，已先后在美国和中国创办多家企业。
 
 ## 刘桑田
-Digital Message, 创始人, 前高级前端开发工程师，曾任Bloomsburg University 和St. John’s University 物理助理教授
+Digital Message, 创始人, 前高级前端开发工程师，曾任教宾州布隆斯堡大学和纽约圣约翰大学。纽约大学物理博士，北大物理学士硕士。
 
