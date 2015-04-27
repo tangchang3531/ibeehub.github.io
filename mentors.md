@@ -29,10 +29,11 @@ BZM，Director
 广州创新谷创始人，追梦者基金创始人
 
 ##王涵
-Farseer 创始人， CEO
+波斯顿Farseer 创始人， CEO
 
 ##赵勇
-Junzi Kitchen 创始人， CEO 
+纽黑文Junzi Kitchen 创始人， CEO 
 
-
+##陈辰
+耶鲁Saphlux, CEO 
 
