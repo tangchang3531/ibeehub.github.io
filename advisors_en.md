@@ -8,10 +8,10 @@ title: Advisors
 Partner at IDG Capital Partners
 
 ## Dr Gang Wu
-Co-founder at xxx Capital; Co-funder and CEO of xxx
+Co-founder at xxx Capital; Co-founder and CEO of xxx
 
 ## Yiting Liu
 Co-founder at LSUS Capital LLC
 
 ## Fei Luo
-Co-funder at Shenzhen Green Pine Capital Partners (GPCP)
+Co-founder at Shenzhen Green Pine Capital Partners (GPCP)
