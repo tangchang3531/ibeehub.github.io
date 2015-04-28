@@ -8,7 +8,7 @@ title: Advisors
 Partner at IDG Capital Partners
 
 ## Dr Gang Wu
-Co-founder at xxx Capital; Co-founder and CEO of xxx
+Co-founder at xxx Capital; Co-founder and CEO of DoubleBridge Technologies Inc.
 
 ## Yiting Liu
 Co-founder at LSUS Capital LLC
