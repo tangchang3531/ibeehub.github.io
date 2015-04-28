@@ -11,7 +11,7 @@ Co-founder and CEO, Next Generation International Service Center. A former direc
 Co-founder, QIYI Technologies LLC. Created first digital prescription online platform in 2002; created a few novel online PDF document processing tools; created a video streaming online system and its TV box application. 15+ year business development and management skills in a few multinational companies.
 
 ## James Chen, CPA, MBA
-Deloitte Senior Tax CPA, mentor and avvisor for a few innovative Chinese，US, and India startups, a former sales and marketing director of Procter & Gamble and Nestle, 15 -year multicultural team building experience, titled with five master's degree plus 4 CPA professional certificates.
+Deloitte Senior Tax CPA, mentor and advisor for a few innovative Chinese，US, and India startups, a former sales and marketing director of Procter & Gamble and Nestle, 15 -year multicultural team building experience, titled with five master's degree plus 4 CPA professional certificates.
 
 ## Mark Li
 Partner, MagStone Law, LLP, Expert in corporate law, merger and acquisition, securities, and fund setup, mentor for entrepreneurs.
