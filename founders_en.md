@@ -17,7 +17,7 @@ Deloitte Senior Tax CPA, mentor and avvisor for a few innovative Chinese，US, a
 Partner, MagStone Law, LLP, Expert in corporate law, merger and acquisition, securities, and fund setup, mentor for entrepreneurs.
 
 ## Yansong Jiang
-Expert in financial risk management of JPMorgan Chase & Co.
+Expert in financial risk management of JPMorgan Chase & Co., mentor for entrepreneurs.
 
 ## He Huang
 Professor, Business School of Yeshiva University, PhD major in Accounting and minor in Financing, LLM, LLB from Beijing University, has published many papers in top financing and accounting journals, a former referee in an entrepreneurship competition, and many years of experience in mentoring entrepreneurs and legal consulting services to companies.
