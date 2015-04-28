@@ -1,16 +1,31 @@
 ---
 layout: en
-title: Founding Team 
+title: Founding and Management Team 
 ---
-# Founding Team
+# Founding and Management Team
 
 ## Xinyue Lou
-CEO, Next Generation International Service Center
+Co-founder and CEO, Next Generation International Service Center. A former director for minority Chinese market of New York Metlife, a former report for World Journal newspaper, expert in media broadcasting and education services.
 
 ## Qi Li
 Co-founder, QIYI Technologies LLC. Created first digital prescription online platform in 2002; created a few novel online PDF document processing tools; created a video streaming online system and its TV box application. 15+ year business development and management skills in a few multinational companies.
 
+## James Chen, CPA, MBA
+Deloitte Senior Tax CPA, mentors and avvisors for a few innovative Chinese，US, and India startups, a former sales and marketing director of Procter & Gamble and Nestle, 15 -year multicultural team building experience, titled with five master's degree plus 4 CPA professional certificates.
 
+## Mark Li
+Partner, MagStone Law, LLP, Expert in corporate law, merger and acquisition, securities, and fund setup, mentor for entrepreneurs.
 
-# Management Team
+## Yansong Jiang
+Expert in financial risk management of JPMorgan Chase & Co.
+
+## He Huang
+Professor, Business School of Yeshiva University, PhD major in Accounting and minor in Financing, LLM, LLB from Beijing University, has published many papers in top financing and accounting journals, a former referee in an entrepreneurship competition, and many years of experience in mentoring entrepreneurs and legal consulting services to companies.
+
+## Gusheng Zhou
+Experienced entrepreneur, has successfully founded a few companies in China and US.
+
+## Sam Liu
+CEO and Founder of Digital Message, a former front-end senior engineer, a former assistant professor of Bloomsburg University and St. John's University, PhD from New York University in Physics, and MS and BS in Physics from Beijing University.
+
 
