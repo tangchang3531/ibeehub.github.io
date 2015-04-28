@@ -26,6 +26,4 @@ Professor, Business School of Yeshiva University, PhD major in Accounting and mi
 Experienced entrepreneur, has successfully founded a few companies in China and US.
 
 ## Sam Liu
-CEO and Founder of  Digital Message, a former front-end senior engineer, a former assistant professor of Bloomsburg University and St. John's University, PhD from New York University in Physics, and MS and BS in Physics from Beijing University.
-
-
+Founder of Digital Message, LLC, a former senior front-end engineer and a former assistant professor in Physics at Bloomsburg University, P.A. and St. John's University, N.Y., PhD in Physic from New York University and MS/BS in Physics from Peking University, China.
