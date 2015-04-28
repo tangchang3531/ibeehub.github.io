@@ -1,8 +1,7 @@
 ---
-layout: default
-title: 创业导师
+layout: en
 ---
-# 创业导师
+# Advisors
 
 ## Wenjing Zhu
 Outstanding experts of science and technology of Dell's supply chain Institute, CTO of the cloud computing 

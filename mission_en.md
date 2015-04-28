@@ -1,3 +1,6 @@
+---
+layout: en
+---
 # Our Mission
 
 iBeeHub consistently commits to incubate and support newly established enterprises.  We will be industrious and frugal to incubate a number of dynamic and innovative businesses and entrepreneurs; in the meantime, we will grow with them and share the joy of entrepreneurship with them! 

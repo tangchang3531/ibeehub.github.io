@@ -1,5 +1,7 @@
+---
+layout: en
+---
 # About us
-
 
 iBeehub was created by a group of enthusiastic entrepreneurs with the goal of helping people launch their ideas. iBeehub not only provides the funding capital, but it also focuses on building strong relationships with resourceful professionals who have niche skills to realize ideas from concept to reality.
 

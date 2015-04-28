@@ -1,3 +1,6 @@
+---
+layout: en
+---
 # Objective and Service
 
 iBeeHub, located in New York City, the world's financial center, fully taps two largest economy in the world-US and China. It involves various kinds of fields, such as finance, technology, education, medicine and health, culture and fashion, and media. 
