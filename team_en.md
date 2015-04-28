@@ -1,6 +1,6 @@
 ---
 layout: en
-title: Founding and Management Team 
+title: Team 
 ---
 # Founding and Management Team
 

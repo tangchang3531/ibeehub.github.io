@@ -14,10 +14,10 @@ page:
     title_en: Our Services
     url_cn: services_cn.html
     url_en: services_en.html
-  - title_cn: 创始和执行团队
-    title_en: Founding Team
-    url_cn: founders_cn.html
-    url_en: founders_en.html
+  - title_cn: 我们的团队
+    title_en: Our Team
+    url_cn: team_cn.html
+    url_en: team_en.html
   - title_cn: 顾问团
     title_en: Advisors
     url_cn: advisors_cn.html
