@@ -26,6 +26,10 @@ page:
     title_en: Mentors
     url_cn: mentors_cn.html
     url_en: mentors_en.html
+  - title_cn: 聚创动态
+    title_en: Events and News
+    url_cn: events_cn.html
+    url_en: events_en.html
   - title_cn: 蜂巢推荐
     title_en: Posts
     url_cn: posts_cn.html
