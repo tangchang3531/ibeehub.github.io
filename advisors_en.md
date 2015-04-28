@@ -11,7 +11,7 @@ Partner at IDG Capital Partners
 Co-founder at xxx Capital; Co-funder and CEO of xxx
 
 ## Yiting Liu
-Co-funder at LSUS Capital LLC
+Co-founder at LSUS Capital LLC
 
 ## Fei Luo
 Co-funder at Shenzhen Green Pine Capital Partners (GPCP)
