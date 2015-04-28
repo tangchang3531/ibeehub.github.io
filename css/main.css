@@ -8,8 +8,9 @@ body {
 }
 
 #qr-code {
+  position: relative;
   text-align: center;
-  float: right;
+  margin: 1em;
 }
 
 /* CUSTOMIZE THE CAROUSEL
