@@ -1,5 +1,6 @@
 ---
 layout: en
+title: Contact Us
 ---
 # Contact us
 

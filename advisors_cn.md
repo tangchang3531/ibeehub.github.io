@@ -1,5 +1,6 @@
 ---
 layout: cn
+title: 顾问团
 ---
 # 顾问团
 

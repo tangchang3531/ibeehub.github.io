@@ -1,5 +1,6 @@
 ---
 layout: en
+title: Advisors
 ---
 # Advisors
 

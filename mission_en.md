@@ -1,5 +1,6 @@
 ---
 layout: en
+title: Our Mission
 ---
 # Our Mission
 
