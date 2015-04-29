@@ -4,6 +4,21 @@ title: Mentors
 ---
 # Mentors
 
+## Bo Zhu
+Founder of Guangzhou Innovalley and Dream chaser Fund
+
+## Han Wang
+Founder and CEO at Farseer,Inc
+
+## Yong Zhao
+Founder and CEO at Junzi Kitchen
+
+## Chen Chen
+CEO at Saphlux, Inc
+
+## Zhengchun Zhi
+CEO at WeCash credit assessment platform
+
 ## Wenjing Chu
 Distingushed technologist at Dell research Institute, CTO of NFV architecture
 
