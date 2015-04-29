@@ -4,6 +4,9 @@ title: Mentors
 ---
 # Mentors
 
+## Hong Xue
+Partner at Cybernaut Investment 
+
 ## Bo Zhu
 Founder of Guangzhou Innovalley and Dream chaser Fund
 
