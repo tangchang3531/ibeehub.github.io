@@ -14,7 +14,7 @@ Managing director and partner at World Tech Ventures LLC
 Global VP at BZM Innovation Technology
 
 ## Jian Zhang
-Founder of Co-Founder of Re-INNO Capital US, LLC.
+Co-Founder and managing director of Re-INNO Capital US, LLC.
 
 ## Yao Liu
 Vice President at Niwodai online lending platform (Shanghai Jiayin Financial Services)
