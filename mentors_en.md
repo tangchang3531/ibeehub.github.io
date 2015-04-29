@@ -10,11 +10,11 @@ Distingushed technologist at Dell research Institute, CTO of NFV architecture
 ## Dr. Mark Tang
 Managing director and partner at World Tech Ventures LLC
 
-## Xiaojie Wang
-Director of BZM
+## Yingjie Wang
+Global VP at BZM Innovation Technology
 
 ## Jian Zhang
-Founder of Sino-American life science and technology investment funds
+Founder of Co-Founder of Re-INNO Capital US, LLC.
 
 ## Yao Liu
 Vice President at Niwodai online lending platform (Shanghai Jiayin Financial Services)
