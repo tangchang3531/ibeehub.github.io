@@ -13,9 +13,6 @@ Co-founder, QIYI Technologies LLC. Created first digital prescription online pla
 ## James Chen, CPA, MBA
 Deloitte Senior Tax CPA, mentor and advisor for several innovative Chinese，US, and India startups, a former sales and marketing director of Procter & Gamble and Nestle, 15 -year multicultural team building experience, titled with five master's degree plus 4 CPA professional certificates.
 
-## Mark Li
-Partner, MagStone Law, LLP, Expert in corporate law, merger and acquisition, securities, and fund setup, mentor for entrepreneurs.
-
 ## Yansong Jiang
 Expert in financial risk management of JPMorgan Chase & Co., mentor for entrepreneurs.
 
