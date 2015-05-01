@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cn
 title: 关于我们
 ---
 # 关于我们

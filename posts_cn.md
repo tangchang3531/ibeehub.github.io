@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cn
 title: 蜂巢推荐
 ---
 # 蜂巢推荐

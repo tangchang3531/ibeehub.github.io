@@ -2,19 +2,39 @@
 markdown: redcarpet
 project: 蜂巢聚创
 page:
-  - title: 关于我们
-    url: about.html
-  - title: 我们的使命
-    url: mission.html
-  - title: 我们的目标和服务
-    url: services.html
-  - title: 创始和执行团队
-    url: founders.html
-  - title: 顾问团
-    url: advisors.html
-  - title: 创业导师
-    url: mentors.html
-  - title: 蜂巢推荐
-    url: posts.html
-  - title: 联系我们
-    url: contact.html
+  - title_cn: 关于我们
+    title_en: About Us
+    url_en: about_en.html
+    url_cn: about_cn.html
+  - title_cn: 我们的使命
+    title_en: Our Mission
+    url_cn: mission_cn.html
+    url_en: mission_en.html
+  - title_cn: 我们的目标和服务
+    title_en: Our Services
+    url_cn: services_cn.html
+    url_en: services_en.html
+  - title_cn: 我们的团队
+    title_en: Our Team
+    url_cn: team_cn.html
+    url_en: team_en.html
+  - title_cn: 顾问团
+    title_en: Advisors
+    url_cn: advisors_cn.html
+    url_en: advisors_en.html
+  - title_cn: 创业导师
+    title_en: Mentors
+    url_cn: mentors_cn.html
+    url_en: mentors_en.html
+  - title_cn: 聚创动态
+    title_en: Events and News
+    url_cn: events_cn.html
+    url_en: events_en.html
+  - title_cn: 蜂巢推荐
+    title_en: Posts
+    url_cn: posts_cn.html
+    url_en: posts_en.html
+  - title_cn: 联系我们
+    title_en: Contact Us
+    url_cn: contact_cn.html
+    url_en: contact_en.html

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cn
 title: 联系我们
 ---
 

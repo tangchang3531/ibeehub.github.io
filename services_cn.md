@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cn
 title: 我们的目标和服务
 ---
 # 我们的目标和服务

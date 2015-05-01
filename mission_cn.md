@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cn
 title: 我们的使命
 ---
 # 我们的使命

@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 创始和执行团队
+layout: cn
+title: 我们的团队
 ---
 # 创始和执行团队
 
