@@ -1,12 +1,7 @@
 ---
-layout: cn
-title: 聚创动态
+layout: en
+title: Events and News
 ---
-<<<<<<< HEAD
-# Events and News
-
-- iBeeHub english website was promoted to production on May 1st, 2015
-=======
 # IBeeHub® Global Entrepreneurship Boot Camp
 
 成就梦想 蜂巢聚创
@@ -105,4 +100,3 @@ title: 聚创动态
 1980美元（研习营费和两午餐一晚餐费），特价优惠截至日5月20日晚11:59pm，198美元
 
 
->>>>>>> f665a99f57b3e3a180e29debca7db6b14e6c2e7a
