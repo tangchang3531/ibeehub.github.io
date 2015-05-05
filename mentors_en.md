@@ -39,3 +39,6 @@ Vice President at Niwodai online lending platform (Shanghai Jiayin Financial Ser
 
 ## Dr. Sherry Sun
 President of the Greater China region operation at g-MEO (Global Maximum Educational Opportunities, Inc)
+
+## Dr. J. John Ma
+President, North America, Renewable Energy Trade Board Corporation
