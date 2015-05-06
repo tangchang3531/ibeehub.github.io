@@ -4,8 +4,11 @@ title: Mentors
 ---
 # Mentors
 
+## Zouning Yin, PhD
+Uber Software Engineer. Microsoft, Pattern Insight, Coverity Software Engineer, big data company GraphSQL founding member, technical mentor for entrepreneurs
+
 ## Tianyou Kou
-RewardRefer Founder and CTO，mobile app architect for android and iOS,technical mentor for entrepreneurs
+RewardRefer Founder and CTO，mobile app architect for android and iOS, technical mentor for entrepreneurs
 
 ## Jianming Jimmy Hao, PhD
 IP Attorney, Associate at Fox Rothschild, JD from Boston College and PhD from Columbia University
