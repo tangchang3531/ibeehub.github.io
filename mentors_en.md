@@ -4,6 +4,11 @@ title: Mentors
 ---
 # Mentors
 
+## Jimmy Hao
+J.D., Boston College Law School (2009)
+M.B.A., Cornell University, Johnson Graduate School of Management (2002)
+Ph.D., with distinction, Molecular and Cell Biology, Columbia University (2000)
+B.S., with high honor, Biophysics, Nankai University, Tianjin, China (1991)
 
 ## J. John Ma, Ph. D.
 President, North America, Renewable Energy Trade Board Corporation
