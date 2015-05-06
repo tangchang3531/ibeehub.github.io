@@ -4,6 +4,9 @@ title: Mentors
 ---
 # Mentors
 
+## Tianyou Kou
+RewardRefer Founder and CTO，mobile app architect for android and iOS,technical mentor for entrepreneurs
+
 ## Jimmy Hao
 J.D., Boston College Law School (2009)
 M.B.A., Cornell University, Johnson Graduate School of Management (2002)
