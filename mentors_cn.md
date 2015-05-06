@@ -4,6 +4,9 @@ title: 创业导师
 ---
 # 创业导师
 
+## 尹佐宁博士
+先后在Microsoft, Pattern Insight, Coverity 作Software Engineer. 他也是大数据公司GraphSQL的founding member。创业导师
+
 ## 寇天友 
 前摩根大通工程师，RewardRefer创始人兼总裁，android和iOS移动开发架构师，从07年开始摸索创业，技术创业导师
 
