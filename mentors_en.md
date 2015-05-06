@@ -7,11 +7,8 @@ title: Mentors
 ## Tianyou Kou
 RewardRefer Founder and CTO，mobile app architect for android and iOS,technical mentor for entrepreneurs
 
-## Jimmy Hao
-J.D., Boston College Law School (2009)
-M.B.A., Cornell University, Johnson Graduate School of Management (2002)
-Ph.D., with distinction, Molecular and Cell Biology, Columbia University (2000)
-B.S., with high honor, Biophysics, Nankai University, Tianjin, China (1991)
+## Jianming Jimmy Hao, PhD
+IP Attorney, Associate at Fox Rothschild, JD from Boston College and PhD from Columbia University
 
 ## J. John Ma, Ph. D.
 President, North America, Renewable Energy Trade Board Corporation
