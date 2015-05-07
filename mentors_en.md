@@ -14,7 +14,7 @@ RewardRefer Founder and CTO，mobile app architect for android and iOS, technica
 IP Attorney, Associate at Fox Rothschild, JD from Boston College and PhD from Columbia University
 
 ## Chun Fu, Ph. D.
-Associate professor, Doctor of Political Theory, Master Supervisor. Faculty of School of Public Economics & Administration, Shanghai University of Finance & Economics. Vice chairman and secretary-general of the Minority Federation of  Shanghai University of Finance & Economics.
+Associate professor, Shanghai University of Finance & Economics. Doctor of laws, Fudan University, Shanghai, China.
 
 ## J. John Ma, Ph. D.
 President, North America, Renewable Energy Trade Board Corporation
