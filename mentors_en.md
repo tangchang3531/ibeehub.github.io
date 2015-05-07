@@ -5,7 +5,7 @@ title: Mentors
 # Mentors
 
 ## Zouning Yin, PhD
-Uber Software Engineer. Microsoft, Pattern Insight, Coverity Software Engineer, big data company GraphSQL founding member, technical mentor for entrepreneurs
+Uber Software Engineer. former Microsoft, Pattern Insight, Coverity Software Engineer, big data company GraphSQL founding member, technical mentor for entrepreneurs
 
 ## Tianyou Kou
 RewardRefer Founder and CTO，mobile app architect for android and iOS, technical mentor for entrepreneurs
