@@ -4,6 +4,9 @@ title: Mentors
 ---
 # Mentors
 
+## Jason Liu
+Founder and Managing Director of DFW Excellerator；VP of American Chinese Federation Industry and Commerce；MBA from UT Dallas and Computer Science and Engineering from UT Arlington. 
+
 ## Zouning Yin, Ph. D.
 Uber Software Engineer. former Microsoft, Pattern Insight, Coverity Software Engineer, big data company GraphSQL founding member, technical mentor for entrepreneurs
 
