@@ -8,7 +8,7 @@ title: Mentors
 Founder and Managing Director of DFW Excellerator；VP of American Chinese Federation Industry and Commerce；MBA from UT Dallas and Computer Science and Engineering from UT Arlington. 
 
 ## Zouning Yin, Ph. D.
-Uber Software Engineer. former Microsoft, Pattern Insight, Coverity Software Engineer, big data company GraphSQL founding member, technical mentor for entrepreneurs
+Uber Software Engineer. former Microsoft, Pattern Insight, Coverity Software Engineer, big data company GraphSQL founding member. Ph. D in computer science from University of Illinois at Urbana-Champaign. He has published in the most prestigious academic conferences in computer science. He is also a recipient of the ACM SIGSOFT Distinguished Paper Award. Technical mentor for entrepreneurs.
 
 ## Tianyou Kou
 RewardRefer Founder and CTO，mobile app architect for android and iOS, technical mentor for entrepreneurs
