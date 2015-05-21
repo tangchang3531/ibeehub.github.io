@@ -4,6 +4,11 @@ title: Mentors
 ---
 # Mentors
 
+## Andy Wang
+
+Graduated from Columbia University, product manager at Tencent.  Two entrepreneurship experiences in 3d printing and career network. Founder of earlybird club and representative of Columbia Venture Community(Shenzhen). Passion in customer demands and interactive design. 
+
+
 ## Jason Liu
 Founder and Managing Director of DFW Excellerator；VP of American Chinese Federation Industry and Commerce；MBA from UT Dallas and Computer Science and Engineering from UT Arlington. 
 
