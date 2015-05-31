@@ -22,9 +22,6 @@ Professor, Business School of Yeshiva University, PhD major in Accounting and mi
 ## Gusheng Zhou
 Experienced entrepreneur, has successfully founded a few companies in China and US.
 
-## Sam Liu
-Founder of Digital Message, LLC, a former senior front-end engineer and a former assistant professor in Physics at Bloomsburg University, P.A. and St. John's University, N.Y., PhD in Physic from New York University and MS/BS in Physics from Peking University, China.
-
 ## Andy Jiang
 
 Co-founder, Cile International Education Corp.;  Member, The Chinese American Startup Association. With many years experience in the culture media markets.   Actively participate in the US community commercial activities, with a wide network in communities.
