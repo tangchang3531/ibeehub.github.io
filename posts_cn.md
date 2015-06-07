@@ -12,7 +12,7 @@ title: 蜂巢推荐
 - [【蜂巢推荐】刘强东去哈佛喊留学生回国](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206489478&idx=1&sn=100f176724f755687e9601a22a3d6016&scene=5#rd)
 -[蜂巢聚创 | 为什么要有联合创始人?](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206448071&idx=1&sn=553c2ce3b211bd68299be993aba2efe2&scene=5#rd)
 - [凡是不能带来价值链溢价的营销都是耍流氓](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206419919&idx=1&sn=b681b0c9049425957a5ab39e87d1e94d&scene=5#rd)
-- [创投女王徐新：如何迅速做到细分市场第一（​强烈推荐）](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206412982&idx=1&sn=aad030ef11a6df89bf80db573e9fae55&scene=5#rd)
+- [创投女王徐新：如何迅速做到细分市场第一(强烈推荐)](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206412982&idx=1&sn=aad030ef11a6df89bf80db573e9fae55&scene=5#rd)
 - [颠覆式创新冷饭热炒](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206331680&idx=1&sn=0b9170b532ece56af8d1975cd5bc8fe7&scene=5#rd)
 - [【蜂巢推荐】冯仑：天下所有创业者都没钱，​如何让钱从别人口袋跑到你的口袋？](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206295959&idx=1&sn=25a2cd8dcbc6d57cf2377b71a779a747&scene=5#rd)
 - [【纽约蜂巢聚创】全球企业家创业研习营开讲啦!](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206737411&idx=1&sn=63f7410ba69a846345ab5af1f0e854fb&key=1936e2bc22c2ceb5d546f28fdbe7737ca0d492f87e4a649e08125fefa41376cf88a739cf3000be23b964fd29a3c941d5)
