@@ -6,6 +6,8 @@ title: 蜂巢推荐
 
 免责声明：发布内容并不代表本平台立场也不对其真实性负责,仅供参考。如作品内容、版权和其它问题侵害到您的权益，请与蜂巢联系，我们将及时修改或删除。
 
+- [【蜂巢推荐】创始人控制公司的四项基本原则](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=207378932&idx=1&sn=090481c9ad38d6099961da80623c57ef&scene=5#rd)
+- [【蜂巢推荐】比尔·盖茨最新撰文：懂得化繁为简的巴菲特，教给我三件事](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=207338841&idx=2&sn=d7851bb7e933d2e212807dd45fac499c&scene=5#rd)
 - [蜂巢创业话题 | 个人评估：我到底是否适合创业？](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206890797&idx=1&sn=0a664765d6a61981a4b1a7a515cfa7e8&scene=5#rd)
 - [【蜂巢推荐】2014年O2O项目死亡榜单](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206632689&idx=1&sn=5a6738dcce8c025efaa130a914f25f09&scene=5#rd)
 - [蜂巢聚创 ｜ 微软Hololens 体验梦幻与现实的自然切换](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206590797&idx=1&sn=b377079cb456db540456069a359742f7&scene=5#rd)
