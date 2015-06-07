@@ -10,7 +10,7 @@ title: 蜂巢推荐
 - [蜂巢聚创 ｜ 微软Hololens 体验梦幻与现实的自然切换](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206590797&idx=1&sn=b377079cb456db540456069a359742f7&scene=5#rd)
 - [【蜂巢推荐】傅盛：中国走向全球的大时代正​在来临](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206528881&idx=2&sn=9f0abf68bd4f4e29d01a6def9426e67c&scene=5#rd)
 - [【蜂巢推荐】刘强东去哈佛喊留学生回国](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206489478&idx=1&sn=100f176724f755687e9601a22a3d6016&scene=5#rd)
--[蜂巢聚创 | 为什么要有联合创始人?](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206448071&idx=1&sn=553c2ce3b211bd68299be993aba2efe2&scene=5#rd)
+- [蜂巢聚创 | 为什么要有联合创始人?](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206448071&idx=1&sn=553c2ce3b211bd68299be993aba2efe2&scene=5#rd)
 - [凡是不能带来价值链溢价的营销都是耍流氓](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206419919&idx=1&sn=b681b0c9049425957a5ab39e87d1e94d&scene=5#rd)
 - [创投女王徐新：如何迅速做到细分市场第一(强烈推荐)](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206412982&idx=1&sn=aad030ef11a6df89bf80db573e9fae55&scene=5#rd)
 - [颠覆式创新冷饭热炒](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=206331680&idx=1&sn=0b9170b532ece56af8d1975cd5bc8fe7&scene=5#rd)
