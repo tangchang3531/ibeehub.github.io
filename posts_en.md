@@ -6,6 +6,12 @@ title: Posts
 
 免责声明：发布内容并不代表本平台立场也不对其真实性负责,仅供参考。如作品内容、版权和其它问题侵害到您的权益，请与蜂巢联系，我们将及时修改或删除。
 
+- [【蜂巢推荐】YC掌门人：创业公司怎样招到优秀又合适的人？](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208370541&idx=2&sn=ad9de6c770c98a732b1fe5ab4ab84429&scene=5#rd)
+- [【蜂巢导师】王强：用互联网思维提升餐饮体验的大师](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208370541&idx=1&sn=2f804b8a3dca00498cef2778c84e149d&scene=5#rd)
+- [【蜂巢推荐】融资中，这些问题或成创业者和VC疯狂撕逼的隐患](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208317636&idx=2&sn=da5bc014da5c0c8def91e366dec2bdae&scene=5#rd)
+- [【蜂巢导师】赵勇：来一场文质彬彬的中华美食革命](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208317636&idx=1&sn=eb2e4ecd3f78448456502e201f1bea99&scene=5#rd)
+- [【蜂巢推荐】李开复：狭窄领域垄断才是创业者的机会](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208278183&idx=2&sn=1eb8838b414713585388ae467fd33129&scene=5#rd)
+- [【蜂巢推荐】周鸿祎：互联网好产品六字法则——刚需、痛点、高频](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208278183&idx=1&sn=50c504dceabf9b1f1a97e3130f961ed4&scene=5#rd)
 - [【蜂巢推荐】一名VC的自述：“坏人”是更好的创业者](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208233518&idx=2&sn=2a2ba33093406cb7d378fbb92e231812&scene=5#rd)
 - [【蜂巢推荐】做VC也是创业](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208233518&idx=1&sn=cc051ebe5b3aa56152025a1fb280a538&scene=5#rd)
 - [【蜂巢推荐】一生必须原谅的三个人](http://mp.weixin.qq.com/s?__biz=MzA5MTU1NTU2OQ==&mid=208195198&idx=3&sn=e9151200650c6adc28a68a997c2ac288&scene=5#rd)
